@@ -31,14 +31,14 @@ For reference check out : www.youtube.com/watch?v=c6b6B9oN4Vg
 # What to do in this project ?
 
 - First visit [carbon.now.sh](https://carbon.now.sh/)
-- chose a nice background
-- write the programe
-- save the image as png
-- name the image as [programming language].png
-- store the image in images folder
-- use below template code , Add this to necessary place inside <strong>index.html</strong>
-- commit your changes
-- now create a PR mention the image in PR also
+- Chose a nice background
+- Write the programe
+- Save the image as png
+- Name the image as [programming language].png
+- Store the image in images folder
+- Use below template code , Add this to necessary place inside <strong>index.html</strong>
+- Commit your changes
+- Now create a PR mention the image in PR also
 
 <strong>Template Code</strong>
 
